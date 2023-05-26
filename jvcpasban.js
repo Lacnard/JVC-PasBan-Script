@@ -47,7 +47,7 @@
         localStorage.setItem('clickCount', clickCount);
 
         if (clickCount % 35 === 0) {
-            window.open("https://www.jeuxvideo.com/profil/amaretsoncamion");
+            window.open("https://www.buymeacoffee.com/xalion");
         }
 
         fetchData();
