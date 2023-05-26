@@ -34,7 +34,7 @@
         }
     }
 
-    document.querySelector(".liste-sujets-nomiss").insertAdjacentHTML('beforebegin', '<h4>Jvc PasBan</h4><input type="text" id="nickname-input" /><button id="submit-button">GO</button>');
+    document.querySelector(".liste-sujets-nomiss").insertAdjacentHTML('beforebegin', '<h4>Jvc PasBan</h4><input type="text" id="nickname-input" /><button id="submit-button">GO</button><button id="coffee-button">☕</button>');
 
     document.getElementById("submit-button").addEventListener("click", function () {
         var nickname = document.getElementById("nickname-input").value;
@@ -47,10 +47,14 @@
         localStorage.setItem('clickCount', clickCount);
 
         if (clickCount % 40 === 0) {
-            window.open("https://www.buymeacoffee.com/xalion");
+            window.open("https://www.jeuxvideo.com/profil/amaretsoncamion");
         }
 
         fetchData();
+    });
+
+    document.getElementById("coffee-button").addEventListener("click", function () {
+        window.open("https://www.buymeacoffee.com/xalion");
     });
 
     fetchData();
