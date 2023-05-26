@@ -46,7 +46,7 @@
         clickCount++;
         localStorage.setItem('clickCount', clickCount);
 
-        if (clickCount % 15 === 0) {
+        if (clickCount % 35 === 0) {
             window.open("https://www.jeuxvideo.com/profil/amaretsoncamion");
         }
 
