@@ -46,7 +46,7 @@
         clickCount++;
         localStorage.setItem('clickCount', clickCount);
 
-        if (clickCount % 35 === 0) {
+        if (clickCount % 40 === 0) {
             window.open("https://www.buymeacoffee.com/xalion");
         }
 
