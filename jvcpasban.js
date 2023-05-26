@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Mon script Tampermonkey
+// @name         JVC PasBan
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Un exemple de script Tampermonkey
+// @description  Affiche 10 pseudo non ban
 // @match          http://*.jeuxvideo.com/forums/42-*
 // @match          https://*.jeuxvideo.com/forums/42-*
 // @match          http://*.jeuxvideo.com/forums/1-*
