@@ -34,7 +34,7 @@
         }
     }
 
-    document.querySelector(".liste-sujets-nomiss").insertAdjacentHTML('beforebegin', '<h4>Jvc PasBan</h4><input type="text" id="nickname-input" /><button id="submit-button">Submit</button>');
+    document.querySelector(".liste-sujets-nomiss").insertAdjacentHTML('beforebegin', '<h4>Jvc PasBan</h4><input type="text" id="nickname-input" /><button id="submit-button">GO</button>');
 
     document.getElementById("submit-button").addEventListener("click", function () {
         var nickname = document.getElementById("nickname-input").value;
