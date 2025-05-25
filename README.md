@@ -18,9 +18,9 @@
 
 ## 📷 Aperçu
 
-![alt text]([https://image.noelshack.com/fichiers/2025/21/7/1748188170-image.png](https://image.noelshack.com/fichiers/2025/21/7/1748188170-image.png))
-![alt text]([https://image.noelshack.com/fichiers/2025/21/7/1748188317-image.png](https://image.noelshack.com/fichiers/2025/21/7/1748188317-image.png))
+![Exemple 1 – ](https://image.noelshack.com/fichiers/2025/21/7/1748188317-image.png)
 
+![Exemple 2 – ](https://image.noelshack.com/fichiers/2025/21/7/1748188170-image.png)
 ---
 
 ## 📦 Installation
